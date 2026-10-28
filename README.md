@@ -14,10 +14,10 @@ Before this, I was a Payments Analyst Intern at Yuno.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [meridian](https://github.com/Nityaa08/meridian) | Multi-agent research API: 5 async agents plan, search in parallel, rank evidence, flag contradictions and stream a report over SSE | Python, FastAPI, asyncio |
-| [smart-router](https://github.com/Nityaa08/smart-router) | LLM cost-control gateway: routes each prompt to the cheapest capable model and logs cost and latency per request | Python, FastAPI, PostgreSQL, Redis |
-| [cross-border-fee-api](https://github.com/Nityaa08/cross-border-fee-api) | All-in price of a cross-border B2B payment in Latin America: FX spread, local taxes, provider fees | TypeScript, Express |
-| [fraud-pattern-explorer](https://github.com/Nityaa08/fraud-pattern-explorer) | Dashboard that helps risk analysts spot suspicious transaction patterns | Next.js, TypeScript |
+| [meridian](https://github.com/Nityaa08/meridian) | Research pipeline: an LLM plans sub-questions, searches run concurrently, embeddings rank the evidence, an LLM critic flags gaps, and the report streams over SSE | Python, FastAPI, asyncio |
+| [smart-router](https://github.com/Nityaa08/smart-router) | LLM gateway: routes each prompt to one of three model tiers with hand-written rules and logs tokens, estimated cost and latency per request | Python, FastAPI, PostgreSQL, Redis |
+| [cross-border-fee-api](https://github.com/Nityaa08/cross-border-fee-api) | Itemised price estimate for cross-border B2B payments in Latin America: FX spread, local taxes, provider fees | TypeScript, Express |
+| [fraud-pattern-explorer](https://github.com/Nityaa08/fraud-pattern-explorer) | Dashboard on synthetic data that helps risk analysts spot suspicious transaction patterns with rule-based flags | Next.js, TypeScript |
 
 ### Tools I use
 Python · TypeScript · Go · FastAPI · Node.js · React / Next.js · PostgreSQL · Redis · Docker · LLM APIs (Claude, OpenAI-compatible) · GitHub Actions
