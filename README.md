@@ -1,6 +1,6 @@
 ## Hi, I'm Nityashree
 
-I'm an AI Engineer on the AI Team at **Yuno**, a payments company. I build and run AI agents that act on real systems.
+I'm an AI Engineer. I build and run AI agents that act on real systems.
 
 **What I work on**
 - AI agents that call tools and connectors on a user's behalf (OAuth, MCP)
