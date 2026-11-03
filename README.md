@@ -23,4 +23,4 @@ Before this, I was a Payments Analyst Intern at Yuno.
 Python · TypeScript · Go · FastAPI · Node.js · React / Next.js · PostgreSQL · Redis · Docker · LLM APIs (Claude, OpenAI-compatible) · GitHub Actions
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/nityashree-s-b34b1b291) · [Email](mailto:nitya08shree@gmail.com) · [Portfolio](https://personal-website-rgag.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/nityashree-s-b34b1b291) · [Email](mailto:nitya08shree@gmail.com) · [Portfolio](https://nityashree.vercel.app)
