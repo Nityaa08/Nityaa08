@@ -4,7 +4,7 @@ I'm an AI engineer. I build AI agents that hold up in production: safe with peop
 
 I don't hand-write code. I direct AI coding agents, review every change, test it and own what ships.
 
-**Portfolio and case studies:** [nityashree.vercel.app](https://nityashree.vercel.app)
+**Portfolio and case studies:** [nityashree.in](https://nityashree.in)
 
 **What I work on**
 - AI agents that call tools and connectors on a user's behalf (OAuth, MCP)
@@ -15,9 +15,9 @@ I don't hand-write code. I direct AI coding agents, review every change, test it
 I came to AI engineering from payments data: I tested an AI assistant before launch, caught its wrong answers, and kept going.
 
 ### Case studies
-- [Building an AI agent platform](https://nityashree.vercel.app/work/agent-platform/): the engine, studio and gateways behind company-wide agents, and how I kept them running
-- [Building MCP connections](https://nityashree.vercel.app/work/mcp-connections/): connectors where each person's agent reaches only what that person may see
-- [Security across an agent fleet](https://nityashree.vercel.app/work/security/): every layer closed by default, every fix proven by replaying the attack
+- [Building an AI agent platform](https://nityashree.in/work/agent-platform/): the engine, studio and gateways behind company-wide agents, and how I kept them running
+- [Building MCP connections](https://nityashree.in/work/mcp-connections/): connectors where each person's agent reaches only what that person may see
+- [Security across an agent fleet](https://nityashree.in/work/security/): every layer closed by default, every fix proven by replaying the attack
 
 ### Featured projects
 
@@ -34,4 +34,4 @@ Python · TypeScript · Go · FastAPI · Next.js · PostgreSQL · MongoDB · Red
 **Tools:** Claude Code and Claude Design every day, plus Cursor, DeepSeek and Grok
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/nityashree-s-b34b1b291) · [Email](mailto:nitya08shree@gmail.com) · [Portfolio](https://nityashree.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/nityashree-s-b34b1b291) · [Email](mailto:nityashreesundararajan@gmail.com) · [Portfolio](https://nityashree.in)
