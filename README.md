@@ -1,37 +1,31 @@
-## Hi, I'm Nityashree
+# Hi, I'm Nityashree (Nitya) 👋
 
-I'm an AI engineer. I build AI agents that hold up in production: safe with people's data, tested before release, and worth what they cost to run.
+I'm an AI engineer. I build production AI agents that handle people's data safely, are proven before they ship, and are cheap to run. I build by directing AI coding agents, and I review, test and own everything that ships.
 
-I don't hand-write code. I direct AI coding agents, review every change, test it and own what ships.
+**Portfolio, case studies and notes: [nityashree.in](https://nityashree.in)**
 
-**Portfolio and case studies:** [nityashree.in](https://nityashree.in)
+### What I work on
+- **Tool-using agents** that act for a person through OAuth and MCP connectors, each with that person's own access, never a shared key.
+- **Guardrails:** permissions enforced outside the model, prompt-injection defences, least privilege, fail closed.
+- **Evals:** labelled test sets with a held-out part, shadow testing, A/B tests between models, red-teaming before launch.
 
-**What I work on**
-- AI agents that call tools and connectors on a user's behalf (OAuth, MCP)
-- Guardrails for agents: sandboxing the code agents run, prompt-injection defences, least-privilege access
-- Evals and model choice: labelled test sets, shadow testing, and A/B tests between models
-- Shipping across a multi-service agent platform (Go, TypeScript, Python) by directing AI coding agents
+### Projects you can try
 
-I came to AI engineering from payments data: I tested an AI assistant before launch, caught its wrong answers, and kept going.
+| Project | What it is | Live | Code |
+|---|---|---|---|
+| **Invoice Agent** | LangGraph agent for accounts payable: the model reads, 13 tested rules decide, a person reviews anything that fails. Red-teamed end to end. | [invoice.nityashree.in](https://invoice.nityashree.in) | [invoice-agent](https://github.com/Nityaa08/invoice-agent) |
+| **Smart Router** | OpenAI-compatible LLM gateway that routes prompts across three model tiers, with a held-out routing eval and cost logs. | [router.nityashree.in](https://router.nityashree.in) | [smart-router](https://github.com/Nityaa08/smart-router) |
+| **Meridian** | Multi-agent research API with a live stream and a sentence-by-sentence grounding check. | [meridian.nityashree.in](https://meridian.nityashree.in) | [meridian](https://github.com/Nityaa08/meridian) |
+| **Cross-Border Fee API** | Itemised fees for B2B payments in four Latin American countries. | [fees.nityashree.in](https://fees.nityashree.in/demo) | [cross-border-fee-api](https://github.com/Nityaa08/cross-border-fee-api) |
+| **Fraud Pattern Explorer** | Fraud analytics dashboard on synthetic data. | [fraud.nityashree.in](https://fraud.nityashree.in) | [fraud-pattern-explorer](https://github.com/Nityaa08/fraud-pattern-explorer) |
 
-### Case studies
-- [Building an AI agent platform](https://nityashree.in/work/agent-platform/): the engine, studio and gateways behind company-wide agents, and how I kept them running
-- [Building MCP connections](https://nityashree.in/work/mcp-connections/): connectors where each person's agent reaches only what that person may see
-- [Security across an agent fleet](https://nityashree.in/work/security/): every layer closed by default, every fix proven by replaying the attack
+### Recent notes
+- [Do I actually code? Not the way you think.](https://nityashree.in/notes/how-i-build/)
+- [I spent a day trying to break my own invoice agent](https://nityashree.in/notes/break-my-invoice-agent/)
+- [My router scored 23 out of 24. Then I gave it new questions.](https://nityashree.in/notes/router-held-out/)
+- [All notes →](https://nityashree.in/notes/)
 
-### Featured projects
+### Stack
+Python · TypeScript · FastAPI · LangGraph · LangChain · MCP · Pydantic · Next.js · PostgreSQL · Redis · Docker · Vercel · LLM APIs
 
-| Project | What it does | Stack |
-|---|---|---|
-| [meridian](https://github.com/Nityaa08/meridian) | Research pipeline: an LLM plans sub-questions, searches run concurrently, embeddings rank the evidence, an LLM critic flags gaps, and the report streams over SSE | Python, FastAPI, asyncio |
-| [smart-router](https://github.com/Nityaa08/smart-router) | LLM gateway: routes each prompt to one of three model tiers with hand-written rules and logs tokens, estimated cost and latency per request | Python, FastAPI, PostgreSQL, Redis |
-| [cross-border-fee-api](https://github.com/Nityaa08/cross-border-fee-api) | Itemised price estimate for cross-border B2B payments in Latin America: FX spread, local taxes, provider fees | TypeScript, Express |
-| [fraud-pattern-explorer](https://github.com/Nityaa08/fraud-pattern-explorer) | Dashboard on synthetic data that helps risk analysts spot suspicious transaction patterns with rule-based flags | Next.js, TypeScript |
-
-### Stack I ship in
-Python · TypeScript · Go · FastAPI · Next.js · PostgreSQL · MongoDB · Redis · Docker · Vercel · LLM APIs (Claude, OpenAI-compatible)
-
-**Tools:** Claude Code and Claude Design every day, plus Cursor, DeepSeek and Grok
-
-### Contact
-[LinkedIn](https://www.linkedin.com/in/nityashree-s-b34b1b291) · [Email](mailto:nityashreesundararajan@gmail.com) · [Portfolio](https://nityashree.in)
+**Reach me:** [nityashree.in](https://nityashree.in) · [LinkedIn](https://www.linkedin.com/in/nityashree-s-b34b1b291) · nityashreesundararajan@gmail.com
