@@ -1,4 +1,4 @@
-# Hi, I'm Nityashree (Nitya)
+# Hi, I'm Nityashree 
 
 I'm an AI engineer. I build production AI agents that handle people's data safely, are proven before they ship, and are cheap to run. I build by directing AI coding agents, and I review, test and own everything that ships.
 
